@@ -28,11 +28,9 @@ It is simple to demonstrate this shortcode.
 1. The data file has sample data in two groupings, Doctors and Teachers.
 
 1. Shortcode syntax:
-
   `[prh_table group="{group name}" title="{table title}"]`
 
-  Working example:
-
+1. And a working example:
   `[prh_table group="doctors" title="Doctor Registry"]`
 
 ## Notes
